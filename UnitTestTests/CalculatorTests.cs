@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ConsoleApplication4;
+using RocketMath;
 using System;
 using System.Collections.Generic;
 using System.Linq;

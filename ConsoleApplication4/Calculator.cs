@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication4
+namespace RocketMath
 {
     public class Calculator
     {
@@ -33,3 +33,4 @@ namespace ConsoleApplication4
             return x / y;
         }
     }
+}
