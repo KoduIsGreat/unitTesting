@@ -55,9 +55,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleApplication4\UnitTest.csproj">
+    <ProjectReference Include="..\ConsoleApplication4\Calculator.csproj">
       <Project>{CB36147A-4D16-48A4-BFEB-F367D0FAFD32}</Project>
-      <Name>UnitTest</Name>
+      <Name>Calculator</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>
